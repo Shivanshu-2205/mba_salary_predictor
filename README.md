@@ -109,6 +109,6 @@ Deploy as a simple web app (Streamlit/Flask) for interactive salary prediction.
 
 Shivanshu Maurya
 
-B.Tech CSE (2nd Year)
+B.Tech CSE (3rdYear)
 
 Enthusiast in Machine Learning & Competitive Programming
