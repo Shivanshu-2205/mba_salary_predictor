@@ -1,4 +1,5 @@
-📊 Salary Prediction using Regression
+#📊 Salary Prediction using Regression
+
 📌 Project Overview
 
 This project aims to predict salary based on academic and related features using Regression Analysis.
